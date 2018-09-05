@@ -9,3 +9,4 @@ My solution to the Roman Numerals kata in Ruby.
 ## To run locally
 
 Check out the repository, run `bundle install`, then run `rspec` to run tests.
+

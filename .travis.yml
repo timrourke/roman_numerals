@@ -1,5 +1,8 @@
 language: ruby
 
+# Install rspec
+before_script: 'gem install "rspec"'
+
 # Run tests
 script: 'rspec'
 
