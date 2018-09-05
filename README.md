@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/timrourke/roman_numerals.svg?branch=master)](https://travis-ci.org/timrourke/roman_numerals)
+
 # Roman Numerals kata in Ruby
 
 My solution to the Roman Numerals kata in Ruby.
